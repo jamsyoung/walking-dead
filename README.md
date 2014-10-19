@@ -34,8 +34,7 @@ Here is a screenshot from the "Shifting Tiles" screensaver on OS X.
 
 ## Contributing
 If you have images that I don't have, please contribute!  You can add in though
-a [pull request](pull-request), or [open an issue](issue) with a link where
-I can download the image and add it in myself
+a pull request, or open an issue with a link where I can download the image and add it in myself.
 
 
 ## References
@@ -47,9 +46,3 @@ I found most all of these images from:
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jamsyoung/walking-dead/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
-
-
-
-[pull-request]: /pulls
-[issue]: /issues
