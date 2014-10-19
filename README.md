@@ -5,8 +5,7 @@ it to a directory full of images.
 
 Here is a screenshot from the "Shifting Tiles" screensaver on OS X.
 
-![](http://new.tinygrab.com/d34460e816c45cee9c824de391550133a03c0620ce.png)
-
+![](http://new.tinygrab.com/d34460e8169c1923f90caef9262e7993e8a7c5f097.png)
 
 
 ## File Structure
