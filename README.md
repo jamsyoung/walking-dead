@@ -51,5 +51,5 @@ I found most all of these images from:
 
 
 
-[pull-request]: https://github.com/jamsyoung/walking-dead/pulls
-[issue]: https://github.com/jamsyoung/walking-dead/issues
+[pull-request]: https://github.com/jamsyoung/walking-dead/pulls/
+[issue]: https://github.com/jamsyoung/walking-dead/issues/
