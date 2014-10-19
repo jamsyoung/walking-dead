@@ -32,7 +32,7 @@ Here is a screenshot from the "Shifting Tiles" screensaver on OS X.
 
 
 ## Contributing
-If you have images that I don't have, please contribute!  You can add in though
+If you have images that I don't have, please contribute!  You can add in through
 a pull request, or open an issue with a link where I can download the image and add it in myself.
 
 
