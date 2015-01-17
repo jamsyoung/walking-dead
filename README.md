@@ -15,7 +15,7 @@ Here is a screenshot from the "Shifting Tiles" screensaver on OS X.
 - `/desktop` - Desktop wallpapers.
 
 - `/issues/animated` - Animated gif dressed issue covers.  I have only found
-  one, ever.
+  a few, ever.
 
 - `/issues/dressed` - Dressed issue covers.
 
@@ -39,9 +39,7 @@ a pull request, or open an issue with a link where I can download the image and 
 ## References
 I found most all of these images from:
 
-- http://walkingdead.com
+- http://www.thewalkingdead.com
 - http://www.comicbookdb.com/title.php?ID=457
 - http://www.comics.org/series/15174/covers/
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jamsyoung/walking-dead/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
